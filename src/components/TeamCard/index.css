@@ -1,0 +1,17 @@
+.card {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 200px;
+  margin: 10px;
+  width: 450px;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  font-family: Bree-serif;
+  list-style-type: none;
+}

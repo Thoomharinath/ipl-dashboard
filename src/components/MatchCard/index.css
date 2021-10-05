@@ -1,0 +1,16 @@
+.image {
+  height: 50px;
+  width: 50px;
+}
+.card-cont {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 10px;
+  color: white;
+  width: 350px;
+  list-style-type: none;
+}

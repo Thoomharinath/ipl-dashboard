@@ -1,0 +1,11 @@
+.card-total {
+  display: flex;
+  flex-wrap: wrap;
+}
+.team-match {
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  padding: 15px;
+}
